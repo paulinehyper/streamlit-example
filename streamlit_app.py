@@ -3,7 +3,7 @@ import altair as alt
 import math
 import pandas as pd
 import streamlit as st
-from streamlit_chat import message
+import streamlit_chat
  
 
 """
